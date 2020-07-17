@@ -1,10 +1,8 @@
 # EOSIO Getting Started#1 (Development Environment)
 
-# Prebuilt Binaries
+## Prebuilt Binaries
 
 Prebuilt EOSIO software packages are available for the operating systems below. Find and follow the instructions for your OS:
-
-## Mac OS X:
 
 ### Mac OS X Brew Install
 
