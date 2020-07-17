@@ -2,8 +2,6 @@
 
 # Prebuilt Binaries
 
----
-
 Prebuilt EOSIO software packages are available for the operating systems below. Find and follow the instructions for your OS:
 
 ## Mac OS X:
@@ -22,8 +20,6 @@ brew remove eosio
 ```
 
 # Build EOSIO
-
----
 
 Download EOSIO source from GitHub to build it. Create an executable EOSIO Binary Files.
 
@@ -63,8 +59,6 @@ cleos		eosio-blocklog	keosd		nodeos		trace_api_util
 the environment variable to run the binary file above. vim .zshrc or .bashrc etc
 
 # Create Development Wallet
-
----
 
 Wallets are repositories of public-private key pairs. Private keys are needed to sign operations performed on the blockchain. Wallets are accessed using cleos.
 
@@ -160,8 +154,6 @@ You'll be prompted for a private key, enter the `eosio` development key provid
 ```
 
 # Start KEOSD and NODEOS
-
----
 
 ## Step 1 : Boot Wallet and Node
 
