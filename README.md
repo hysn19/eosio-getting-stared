@@ -118,7 +118,7 @@ It should now return
 ```bash
 Wallets:
 [ 
-	"default *"
+  "default *"
 ]
 ```
 
@@ -209,7 +209,7 @@ You should see a response with an list of wallets: (If the wallet is empty, see 
 ```bash
 Wallets:
 [
-	"default *"
+  "default *"
 ]
 ```
 
