@@ -223,3 +223,7 @@ This will check that the RPC API is working correctly, pick one.
 ```bash
 curl http://localhost:8888/v1/chain/get_info
 ```
+
+
+
+add github action ci
