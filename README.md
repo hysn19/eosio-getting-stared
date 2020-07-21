@@ -224,3 +224,4 @@ This will check that the RPC API is working correctly, pick one.
 curl http://localhost:8888/v1/chain/get_info
 ```
 
+github action test
